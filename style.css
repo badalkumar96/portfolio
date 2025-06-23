@@ -23,13 +23,13 @@ header {
 
 header h1 {
   font-size: 2.5em;
-  color: #00ffff;
+  color: #8A817C;
 }
 
 header p {
   font-size: 1.2em;
   margin-top: 10px;
-  color: #aaa;
+  color: #F4F3EE;
 }
 
 nav {
@@ -40,7 +40,7 @@ nav a {
   position: relative;
   margin: 0 15px;
   text-decoration: none;
-  color: #00ffff;
+  color: #8A817C;
   font-weight: bold;
   transition: color 0.3s;
 }
@@ -52,7 +52,7 @@ nav a::after {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #ff0077;
+  background-color: #E0AFA0;
   transition: width 0.3s ease;
 }
 
@@ -61,7 +61,7 @@ nav a:hover::after {
 }
 
 nav a:hover {
-  color: #ff0077;
+  color: #E0AFA0;
 }
 
 section {
